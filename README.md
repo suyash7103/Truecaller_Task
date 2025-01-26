@@ -21,12 +21,10 @@ Follow the instructions below to run the app on your local environment.
 - **Gradle 6.0+**
 - **Truecaller SDK Account** (Required for the 1-Click Registration feature)
 
-### Clone the repository
+### Clone the repository-git clone https://github.com/suyash7103/Truecaller_Task.git
 
-```bash
-git clone https://github.com/suyash7103/Truecaller_Task.git
 
-![Screenshot 2025-01-26 223129](https://github.com/user-attachments/assets/a169e8d0-f535-4ef0-8144-8d893d143abc)
-![Screenshot 2025-01-26 223233](https://github.com/user-attachments/assets/dcbdafac-fafe-4612-82c7-ca77b4862d2f)
-![Screenshot 2025-01-26 223211](https://github.com/user-attachments/assets/21aa19ec-90a3-4981-a429-f9b4754f2852)
 
+![Screenshot 2025-01-26 223211](https://github.com/user-attachments/assets/cca9f834-0064-4079-a9d9-1b4a6fb49d81)
+![Screenshot 2025-01-26 223129](https://github.com/user-attachments/assets/f5cc23b1-1137-41b2-ba63-440da4edf92c)
+![Screenshot 2025-01-26 223233](https://github.com/user-attachments/assets/2f13cd6c-fa5c-4f23-86b2-3b84e38ac52c)
